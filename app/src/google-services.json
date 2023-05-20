@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541226682970",
+    "project_id": "shopster-1110a",
+    "storage_bucket": "shopster-1110a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541226682970:android:4ec75d28af03afd5566663",
+        "android_client_info": {
+          "package_name": "com.example.shopster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541226682970-e3nq5kqopcan7q348dtuft2bto9r7hbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUypZQMU2SGskNTFeIl77K3WViw1p9p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541226682970-e3nq5kqopcan7q348dtuft2bto9r7hbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
